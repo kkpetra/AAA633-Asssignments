@@ -1,0 +1,23 @@
+﻿  main.cpp
+D:\release_v1\transferfunction.h(13,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\release_v1\transferfunction.h(14,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\release_v1\transferfunction.h(15,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\release_v1\transferfunction.h(24,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\release_v1\transferfunction.h(55,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\release_v1\transferfunction.h(56,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\release_v1\transferfunction.h(149,52): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\release_v1\transferfunction.h(149,52): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\release_v1\transferfunction.h(149,90): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\release_v1\transferfunction.h(149,90): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\release_v1\transferfunction.h(221,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\release_v1\transferfunction.h(222,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\release_v1\main.cpp(74,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\release_v1\main.cpp(109,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\release_v1\main.cpp(110,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\release_v1\main.cpp(123,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\release_v1\main.cpp(124,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\release_v1\main.cpp(125,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\release_v1\main.cpp(126,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\release_v1\main.cpp(184,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\release_v1\main.cpp(188,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  assign_1.vcxproj -> D:\release_v1\build\Debug\assign_1.exe

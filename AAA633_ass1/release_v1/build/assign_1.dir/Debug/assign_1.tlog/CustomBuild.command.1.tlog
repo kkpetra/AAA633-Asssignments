@@ -1,0 +1,10 @@
+^D:\RELEASE_V1\CMAKELISTS.TXT
+setlocal
+D:\DIYprogram\CMake\bin\cmake.exe -SD:/release_v1 -BD:/release_v1/build --check-stamp-file D:/release_v1/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
